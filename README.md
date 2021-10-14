@@ -28,7 +28,7 @@ To run this project, access current directory and run the command line below.
 $ python card.py
 ```
 
-# Preview
-Use left mouse button to play. The preview of the game is below.<br>
+# Screenshot
+Use left mouse button to play. The preview of the game is below.<br><br>
 ![image](https://user-images.githubusercontent.com/69473375/135953568-22364560-d32a-454f-b645-2906af106815.png)
 
